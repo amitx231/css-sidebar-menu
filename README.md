@@ -82,7 +82,7 @@ This project was created while learning advanced CSS concepts, especially respon
 
 **Amit Chauhan**
 
-If you found this project helpful, feel free to ⭐ the repository.
+If you found this project helpful, feel free to ⭐ the repository.🫣
 
 
 ## 🌐 Live Demo
